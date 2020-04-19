@@ -19,7 +19,6 @@ const TodoItems = (props) => {
         )
     return (
         <div>
-        
             <div className="titles">
                 <span className="title num">ID</span>
                 <span className="title firstSection">Task Name</span>

@@ -1,3 +1,6 @@
+form{
+    margin-bottom: 15px;
+}
 input {
     padding: 20px;
     border: 0;
@@ -30,4 +33,8 @@ input {
     font-size: 20px;
     line-height: 18px;
     vertical-align: bottom;
+}
+.warning {
+    color: tomato;
+    margin: 20px;
 }

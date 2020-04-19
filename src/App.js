@@ -11,10 +11,7 @@ class App extends Component {
       { id: 3, task: 'Requiremnet', type: 'BA' },
       { id: 4, task: 'Home Page Design', type: 'Design' },
       { id: 5, task: 'Design Slicing', type: 'front-end' },
-      { id: 6, task: 'Requiremnet', type: 'BA' },
-      { id: 7, task: 'Home Page Design', type: 'Design' },
-      { id: 8, task: 'Design Slicing', type: 'front-end' },
-      { id: 9, task: 'Requiremnet', type: 'BA' }
+
     ]
   }
 
