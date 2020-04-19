@@ -1,0 +1,33 @@
+input {
+    padding: 20px;
+    border: 0;
+    background-color: #e4e4e4;
+    font-size: 16px;
+    transition: all 0.3s ease-in-out;
+}
+input[type="text"]:focus {
+    outline: 0;
+    background: #d2d2d2;
+}
+input[type="submit"]:focus,
+input[type="submit"]:hover {
+    background: #e85a40;
+}
+input {
+    outline: 0;
+}
+.task {
+    width: 60%;
+}
+.type {
+    width: 30%;
+}
+.btn {
+    width: 10%;
+    background: tomato;
+    color: #fff;
+    cursor: pointer;
+    font-size: 20px;
+    line-height: 18px;
+    vertical-align: bottom;
+}
